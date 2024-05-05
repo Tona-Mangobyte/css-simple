@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    padding: 0;
+}
+div {
+    padding: 10px;
+}
+
+#content {
+    position: absolute;
+    margin-left: 18%;
+    width: 40%;
+    top: 100px;
+    padding: 5px;
+}
+
+.warning {
+    font-weight: bold;
+    color: red;
+}
+.title {
+    font-size: 120%;
+}
+.content {
+    font-family: Verdana, Arial, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.footer {
+    font-size: 75%;
+}
+
+#content h3 {
+    font-size: 2em;
+    font-weight: bold;
+}
+#navigation h3 {
+    font-size: 0.8em;
+    font-weight: normal;
+    text-decoration: underline;
+}
+#navigation a {
+    text-decoration: none;
+}
+
